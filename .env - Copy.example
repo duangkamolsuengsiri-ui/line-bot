@@ -1,0 +1,6 @@
+# คัดลอกไฟล์นี้เป็น .env แล้วใส่ค่าจริงจาก LINE Developers Console
+# Messaging API channel > Basic settings / Messaging API
+
+LINE_CHANNEL_ACCESS_TOKEN=qag+TDtMJhPSz/OwmNb3K/U1cIB6Ajm0iE4jGS2WT4nSG801kqPVrHcYr5L7wyPgZTGOcO+6niczupeJYwa/CUXVTHJZP5czgP0bbcCXuGtc81dwXfto8J+YKuP1jIwpVfbKuGf1/owfvbcqS202twdB04t89/1O/w1cDnyilFU=
+LINE_CHANNEL_SECRET=f2c5b7757d4ffc61ef23b2f4f8ac1781
+PORT=3000
